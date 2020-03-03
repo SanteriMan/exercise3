@@ -8,16 +8,8 @@
     "start": "node index.js",
     "watch": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SanteriMan/exercise3.git"
-  },
   "author": "Santeri Mäntyniemi",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/SanteriMan/exercise3/issues"
-  },
-  "homepage": "https://github.com/SanteriMan/exercise3#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1"

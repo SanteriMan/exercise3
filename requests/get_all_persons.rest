@@ -1,7 +1,1 @@
-POST http://localhost:3001/api/persons/
-content-type: application/json
-
-{
-    "name": "Uusi nimi",
-    "number": "040020202"
-}
+GET https://obscure-peak-28531.herokuapp.com/api/persons
