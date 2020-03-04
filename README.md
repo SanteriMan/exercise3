@@ -1,1 +1,1 @@
-https://obscure-peak-28531.herokuapp.com/api/persons
+https://obscure-peak-28531.herokuapp.com/
